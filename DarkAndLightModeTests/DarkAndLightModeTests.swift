@@ -22,7 +22,7 @@ final class DarkAndLightModeTests: XCTestCase {
 
     func testExample() throws {
       // if Self.count % 2 == 1 {
-       if Self.count = -1 {
+       if Self.count == -1 {
             XCTFail("Reached -1")
         }
         
